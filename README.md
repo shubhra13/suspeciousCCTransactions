@@ -1,3 +1,15 @@
+# RESULT GRAPHS
+---
+
+![Transactions for Card Holder id 2](Images/TransactionsCHolder2.png)
+![Transactions for Card Holder id 18](Images/TransactionsCHolder18.png)
+![Transactions for Card Holder id 2 & 18](Images/TransactionsCHolder2and18.png)
+![BoxPlot to find outliers](Images/BoxPlot.png)
+
+
+---
+# PROJECT DESCRIPTION
+---
 # Looking for Suspicious Transactions
 
 ![Credit card fraudster](Images/credit_card_fraudster.jpg)
